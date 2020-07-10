@@ -1,0 +1,3 @@
+[submodule "app/ThirdParty/app/ThirdParty/myth-auth"]
+	path = app/ThirdParty/app/ThirdParty/myth-auth
+	url = https://github.com/lonnieezell/myth-auth.git
