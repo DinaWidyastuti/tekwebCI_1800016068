@@ -6,13 +6,12 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return redirect()->route('login');
+		return view('welcome_message');
 	}
 
 	public function home()
 	{
-		return view('welcome_message');
-		// echo 'tes';
+		echo "selamat datang dihalaman admin";
 	}
 	//--------------------------------------------------------------------
 

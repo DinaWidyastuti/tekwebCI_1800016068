@@ -37,7 +37,6 @@ $routes->get('/', 'Home::index');
 $routes->group('', ['filter' => 'login'], function ($routes) {
 	$routes->get('home', 'Home::home');
 });
-// $routes->get('home', 'Home::home');
 
 /**
  * --------------------------------------------------------------------

@@ -248,8 +248,6 @@
 				</li>
 				<li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
 				<li class="menu-item hidden"><a href="https://github.com/codeigniter4/CodeIgniter4/blob/master/CONTRIBUTING.md" target="_blank">Contribute</a>
-				<li class="menu-item ">
-					<a href="<?= base_url('logout') ?>">Keluar</a>
 				</li>
 			</ul>
 		</div>

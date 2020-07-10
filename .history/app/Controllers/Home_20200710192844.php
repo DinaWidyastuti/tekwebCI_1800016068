@@ -12,7 +12,6 @@ class Home extends BaseController
 	public function home()
 	{
 		return view('welcome_message');
-		// echo 'tes';
 	}
 	//--------------------------------------------------------------------
 
